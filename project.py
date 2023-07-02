@@ -80,5 +80,4 @@ button = Button(root, width=10, text="Get Data", command=find)
 button.place(x=180, y=150)
 button.config(bg = "#7DC23B")
 
-
 root.mainloop()
